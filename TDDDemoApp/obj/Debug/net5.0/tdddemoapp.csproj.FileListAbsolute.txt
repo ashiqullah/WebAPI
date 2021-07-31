@@ -1,0 +1,16 @@
+D:\Practice\tdddemoapp\bin\Debug\net5.0\tdddemoapp.exe
+D:\Practice\tdddemoapp\bin\Debug\net5.0\tdddemoapp.deps.json
+D:\Practice\tdddemoapp\bin\Debug\net5.0\tdddemoapp.runtimeconfig.json
+D:\Practice\tdddemoapp\bin\Debug\net5.0\tdddemoapp.runtimeconfig.dev.json
+D:\Practice\tdddemoapp\bin\Debug\net5.0\tdddemoapp.dll
+D:\Practice\tdddemoapp\bin\Debug\net5.0\ref\tdddemoapp.dll
+D:\Practice\tdddemoapp\bin\Debug\net5.0\tdddemoapp.pdb
+D:\Practice\tdddemoapp\obj\Debug\net5.0\tdddemoapp.csproj.AssemblyReference.cache
+D:\Practice\tdddemoapp\obj\Debug\net5.0\tdddemoapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\tdddemoapp\obj\Debug\net5.0\tdddemoapp.AssemblyInfoInputs.cache
+D:\Practice\tdddemoapp\obj\Debug\net5.0\tdddemoapp.AssemblyInfo.cs
+D:\Practice\tdddemoapp\obj\Debug\net5.0\tdddemoapp.csproj.CoreCompileInputs.cache
+D:\Practice\tdddemoapp\obj\Debug\net5.0\tdddemoapp.dll
+D:\Practice\tdddemoapp\obj\Debug\net5.0\ref\tdddemoapp.dll
+D:\Practice\tdddemoapp\obj\Debug\net5.0\tdddemoapp.pdb
+D:\Practice\tdddemoapp\obj\Debug\net5.0\tdddemoapp.genruntimeconfig.cache
